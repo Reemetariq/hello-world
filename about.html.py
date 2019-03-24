@@ -6,11 +6,12 @@ Visit http://www.python.org/download/mac/tcltk/ for current information.
 <!DOCTYPE html>
 <html>
 <head>
-<title>about </title>
+<title>about</title>
 </head>
 <body>
 
-<h1>hello</h1>
+<h1>Hello/h1>
+
 
 </body>
 </html>
